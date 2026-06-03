@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+
+# Model outputs and large/generated artifacts
+outputs/
+*.csv
+*.xlsx
+*.pkl
+*.joblib
+
+# Local environments and IDE settings
+.venv/
+env/
+.env
+.idea/
+.vscode/
+
+# OS noise
+.DS_Store
+Thumbs.db
