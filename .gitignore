@@ -8,6 +8,13 @@ outputs/
 *.pkl
 *.joblib
 
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
 # Local environments and IDE settings
 .venv/
 env/
